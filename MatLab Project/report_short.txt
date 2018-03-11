@@ -1,0 +1,8 @@
+Name: Betty A., Reed S., Emily U.,
+Group: Group 5
+Date: 10/13/2016
+Section B: DNA Pattern Matching-Short Sequence
+
+Sequence Length: 33
+Start Postion: 19
+End Postion: 52

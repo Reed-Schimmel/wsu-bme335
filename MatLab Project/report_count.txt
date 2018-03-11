@@ -1,0 +1,13 @@
+Name: Betty A., Reed S., Emily U.,
+Group: Group 5
+Date: 10/13/2016
+Section A: Codon Counting
+
+For AGT Codon: 
+Total Number: 9029 First 10 Positions: 7    8    9   48   49   50  113  114  115  124
+
+For GCT Codon: 
+Total Number: 8982 First 10 Positions: 28   29   30  251  252  253  277  278  279  333
+
+For TCC Codon: 
+Total Number: 7445 First 10 Positions: 20   21   22   96   97   98  143  144  145  194
